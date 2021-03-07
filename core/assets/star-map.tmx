@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="80" height="45" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="22">
+ <tileset firstgid="1" name="stars" tilewidth="16" tileheight="16" tilecount="100" columns="10">
+  <image source="stars.png" width="160" height="160"/>
+ </tileset>
+ <imagelayer id="2" name="background">
+  <image source="bg.png" width="1280" height="720"/>
+ </imagelayer>
+ <layer id="3" name="stars" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt1sENwCAMA0DYf+k+WACphcjN3QRRYizG4AuzegBaSMhZwozAOTrgH9wRuEnnIAP13ACoon9gj7dyl32TJiWzKXMCfbztJb1GNzIPALD4F5FEXvNV3VB2zrJfqjyTygAW
+  </data>
+ </layer>
+ <objectgroup id="4" name="stars-obj">
+  <object id="1" name="Shanee" x="40.7227" y="24.2397"/>
+  <object id="2" name="Exxtor" x="136.712" y="135.742"/>
+  <object id="3" name="Visi" x="120.229" y="295.724"/>
+  <object id="4" name="Alia" x="185.191" y="456.676"/>
+  <object id="5" type="Mesh" x="167.739" y="647.685"/>
+  <object id="6" name="Ishtar" x="25.2093" y="696.164"/>
+  <object id="7" name="Elle" x="359.717" y="215.249"/>
+  <object id="8" name="Yunts" x="440.193" y="456.676"/>
+  <object id="9" name="Wout" x="601.145" y="391.714"/>
+  <object id="10" name="Varda" x="632.171" y="230.762"/>
+  <object id="11" name="Oros" x="601.145" y="56.2361"/>
+  <object id="12" name="Xorg" x="697.134" y="664.168"/>
+  <object id="13" name="Evelett" x="807.667" y="327.721"/>
+  <object id="14" name="Torro" x="856.146" y="183.252"/>
+  <object id="15" name="Arx" type="Abbina" x="873.599" y="103.746"/>
+  <object id="16" name="Rotter" x="999.645" y="344.204"/>
+  <object id="17" name="Uni" x="904.626" y="487.703"/>
+  <object id="18" name="Barnce" x="1177.08" y="664.168"/>
+  <object id="19" name="Lofe" x="1255.62" y="600.175"/>
+  <object id="20" name="Tenns" x="1209.08" y="376.2"/>
+  <object id="21" name="Oda" x="1224.59" y="39.7531"/>
+ </objectgroup>
+</map>
